@@ -1,7 +1,7 @@
  //Image array for PacMen 
     const pacArray = [
-        ['PacMan1.png', 'PacMan2.png'],
-        ['PacMan3.png', 'PacMan4.png']
+        ['pac-images/PacMan1.png', 'pac-images/PacMan2.png'],
+        ['pac-images/PacMan3.png', 'pac-images/PacMan4.png']
     ];
   
 //Container Element Div
