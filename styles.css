@@ -1,0 +1,35 @@
+.title {
+    color: blanchedalmond;
+    font-size: 4em;
+    margin: 2.5%;
+    padding: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+#game {
+    text-align: center; 
+    margin: auto;
+    padding-bottom: 1em;
+}
+
+body {
+    background-color: black;
+}
+
+#container {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center;
+    background-color: grey;
+    width: 560px; /* 28 x 20px squares*/
+    height: 560px;
+    border: solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+img {
+    position: absolute;
+}
