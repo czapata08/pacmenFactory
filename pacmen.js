@@ -1,6 +1,6 @@
  //Image array for PacMen 
     const pacArray = [
-        ['pac-menFactory/pac-images/PacMan1.png', 'pac-menFactory/pac-images/PacMan2.png'],
+        ['/Users/carloszapata/Desktop/portfolioProjects/pac-menFactory/pac-images/PacMan1.png', 'pac-menFactory/pac-images/PacMan2.png'],
         ['pac-menFactory/pac-images/PacMan3.png', 'pac-menFactory/pac-images/PacMan4.png']
     ];
   
