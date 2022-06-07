@@ -2,14 +2,14 @@
 <h4>This projects uses a combination of javascript timers and DOM manipulation techniques to dynamically create PacMen and move within a defined container. </h4>
 
 <h2>Usage</h2>
-<li>Use creat() bottom to create PacMen and move() bottom to make them move and increase PacMen speed.<li>
+<li>Use create() bottom to create PacMen and move() bottom to make them move and increase PacMen speed</li>
 
 <h2>Roadmap</h2>
 <li>Create a counter that tracks each time that individual PacMen collide and display it to the user</li>
 
 
 <h2>Project Goals</h2> 
-    <li>Work with css and DOM to display PacMen</li>
+    <li>Work with CSS and DOM to display PacMen</li>
     <li>Work with Javascript timers to move pacmen within container</li>
 
 
