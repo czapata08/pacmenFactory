@@ -1,8 +1,5 @@
  //Image array for PacMen 
-    const pacArray = [
-        ['pac-images/PacMan1.png', 'pac-images/PacMan2.png'],
-        ['pac-images/PacMan3.png', 'pac-images/PacMan4.png']
-    ];
+    const img = "pacImages/PacMan1.png";
   
 //Container Element Div
     let container = document.getElementById("container");
@@ -22,9 +19,9 @@
     const pacMen = []; // This array holds all the pacmen
   
 //Select A Random Image
-    function randomImage(pacArray) {
+    /*function randomImage(pacArray) {
         return pacArray[Math.floor(Math.random() * 2)][Math.floor(Math.random() * 2)]
-        };
+        };*/
 
     function random (min, max) {
         return Math.random() * (max - min) + min
@@ -50,7 +47,7 @@
         // set position here 
         newimg.style.left = position.dx + 'px';
         newimg.style.top = position.dy + 'px';
-        newimg.src = randomImage(pacArray);
+        newimg.src = "pacImages/PacMan1.png";
         newimg.width = 50;
         
     
