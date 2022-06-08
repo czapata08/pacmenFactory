@@ -1,5 +1,5 @@
  //Image array for PacMen 
-    const img = "pacImages/PacMan1.png";
+    const img = "pacImages/PacMan2.png";
   
 //Container Element Div
     let container = document.getElementById("container");
